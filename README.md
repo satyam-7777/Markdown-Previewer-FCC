@@ -11,7 +11,7 @@ an editor and see the rendered HTML preview in real time.
 ## GitHub Repository
 
 **GitHub:**\
-`<ADD_GITHUB_REPOSITORY_URL>`
+`https://github.com/satyam-7777/Markdown-Previewer-FCC`
 
 ## Features
 
