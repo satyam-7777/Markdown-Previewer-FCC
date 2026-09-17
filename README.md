@@ -6,12 +6,12 @@ an editor and see the rendered HTML preview in real time.
 ## Live Project
 
 **Live URL:**\
-[Live Demo](https://codesandbox.io/p/sandbox/fcc-markdown-previewer-2scng5)
+<https://codesandbox.io/p/sandbox/fcc-markdown-previewer-2scng5>
 
 ## GitHub Repository
 
 **GitHub:**\
-[Link](https://github.com/satyam-7777/Markdown-Previewer-FCC)
+<https://github.com/satyam-7777/Markdown-Previewer-FCC>
 
 ## Features
 
